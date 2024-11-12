@@ -145,8 +145,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone and Install**
 
    ```bash
-   git clone https://github.com/your-username/ai-chatbot.git
-   cd ai-chatbot
+   git clone https://github.com/your-username/ai-chatbot-supabase.git
+   cd ai-chatbot-supabase
    pnpm install
    ```
 
@@ -194,7 +194,7 @@ For more help, open an issue.
 1. **Fork the Repository**
 
    ```bash
-   https://github.com/your-username/ai-chatbot
+   https://github.com/your-username/ai-chatbot-supabase
    ```
 
 2. **Configure Vercel Project**
